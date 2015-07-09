@@ -27,6 +27,6 @@
 			"	]",
 			"}"
 		],
-		"description": "Add 'http-server' task"
+		"description": "Start 'http-server' for a quick preview"
 	}
 }
